@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Gustavo
+-Profissão: Operario
+-Cidade: Braga
+-O que faz nas horas vaga: Estudo
+-Feedback sobre o curso Qualidade de Software: O curso e interessante. Boa didatica e suporte aos alunos. E um curso "curto" e esta primeira metade e bastante teorica. Tenho duvidas se ao final os aluno conseguirao testar softwares, mas com certeza é um bom curso para um primeiro contato e para quem tem duvidas sobre a profissao em si.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma e otima, intuitiva e completa. 
 
 Obrigado!!!
 
